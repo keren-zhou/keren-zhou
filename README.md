@@ -19,6 +19,7 @@
 
 ### 🛠️ Projects
 
+- [d4rt](https://github.com/keren-zhou/open-d4rt-DDAD) — 基于 DDAD 自驾数据集，对open-d4rt进行训练，评估指标和可视化
 - [VGGT-Omega](https://github.com/keren-zhou/VGGT-Omega) — 基于 nuScenes 数据集，对VGGT-Omega进行推理，训练微调，评估指标和可视化
 - [hello-3dgs](https://github.com/keren-zhou/hello-3dgs) — 基于 Nerfstudio 实现 3D Gaussian Splatting 重建，涵盖拍摄、训练、推理与可视化全流程
 - [mini-infra](https://github.com/keren-zhou/mini-infra) — 用 C++ 从零实现类 ncnn 的轻量推理框架，跑通 YOLO 和 ResNet
